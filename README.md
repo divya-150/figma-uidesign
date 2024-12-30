@@ -25,7 +25,7 @@ You can view the design on Figma through the following link:
 
 [View the Figma Sign-In and Sign-Up Design](https://www.figma.com/design/WcBuUlIUODNGKv7O3qtBre/login-page?node-id=0-1&p=f&t=uqyXCCrghwy5MtFM-0)
 
-## How to Access
+## How to Access it
 
 1. Clone this repository:
    ```bash
